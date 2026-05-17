@@ -1,0 +1,7 @@
+﻿key,value
+W1_activity,0.6
+W2_ls_penalty,0.4
+ETA1_Q,0.6
+ETA2_diversity,0.25
+ETA3_region_bonus,0.15
+K_SELECT,8.0

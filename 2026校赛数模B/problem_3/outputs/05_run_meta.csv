@@ -1,0 +1,8 @@
+﻿key,value
+ALPHA,0.6
+BETA,0.4
+ETA_U,0.6
+ETA_DIV,0.25
+ETA_REGION,0.15
+K_SELECT,8
+baseline_rule,top8_Bioactivity_Score

@@ -1,0 +1,7 @@
+﻿key,value
+global_activity_Q75,5.83618258
+hotspot_H_threshold_Q75,0.6152123236995484
+DBSCAN_EPS_std_xy,0.45
+DBSCAN_MIN_SAMPLES,5.0
+n_molecules_used,325.0
+n_regions,10.0

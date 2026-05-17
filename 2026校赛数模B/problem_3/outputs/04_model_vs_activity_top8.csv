@@ -1,0 +1,7 @@
+﻿metric,label,model,baseline
+mean_bioactivity,平均活性得分,6.828283271749999,8.963407730375
+mean_activity_norm,平均归一化活性,0.6828283271749318,0.8963407730374104
+mean_local_sensitivity,平均局部敏感度,0.19892526767638904,0.41597842039054256
+high_ls_count,高敏感分子数量,1.0,8.0
+n_regions_covered,覆盖区域数,7.0,2.0
+mean_pairwise_dist,平均两两空间距离,17.217363184494413,8.372578372321025
